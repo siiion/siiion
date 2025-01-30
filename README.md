@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=e6e6fa&height=150&section=header&text=Siiion's_GitHub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-####  :wave: Welcome my github profile !
+####  :wave: Welcome to my github profile !
 
   
  <br/>
