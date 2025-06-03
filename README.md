@@ -41,13 +41,14 @@
 
 ### 📚 Projects
 
-| 프로젝트명 | 역할 / 스택 | 기간 | GitHub |
-|-----------|-------------|------|--------|
-| **Ripple** | FE / Flutter | 2024.11 ~ | [Ripple Repo](https://github.com/IT-Cotato/10th-Economic-Learning-FE) | 
-| **KIDING** | FE / Flutter | 2023.11-2025.03 | [KIDING Repo](https://github.com/KIDING-2023/KIDING_Frontend_Flutter) |
-| **StoryMate** | FE / Flutter | 2025.01-02 | [StoryMate Repo](https://github.com/Story-Mate/Story-Mate_Frontend) | 
-| **딱콩!** | FE / Flutter | 2025.01 | [딱콩 Repo](https://github.com/5th-COKATHON/Team2-Client) |
-| **건강할끼니?** | FE / Kotlin | 2023.04-05 | [건강할끼니 Repo](https://github.com/IPS-bobITsong) | 
+| 프로젝트명 | 역할 / 스택 | 기간 | 한 줄 소개 | GitHub |
+|-----------|-------------|------|-------------|--------|
+| **Ripple** | FE / Flutter | 2024.11 ~ | 경제 개념을 쉽게 배우는 학습 앱 | [Repo](https://github.com/IT-Cotato/10th-Economic-Learning-FE) | 
+| **KIDING** | FE / Flutter | 2023.11–2025.03 | 아이와 함께하는 보드게임 보조 앱 | [Repo](https://github.com/KIDING-2023/KIDING_Frontend_Flutter) |
+| **Eifty** | FE / Flutter | 2025.03–06 | 니모닉 기반 전자지갑 앱 | [Repo](https://github.com/siiion/Eifty) | 
+| **StoryMate** | FE / Flutter | 2025.01–02 | AI 챗봇과 문학 인물로 대화하는 학습 앱 | [Repo](https://github.com/Story-Mate/Story-Mate_Frontend) | 
+| **딱콩!** | FE / Flutter | 2025.01 | 모바일에서 스트레스를 해소할 수 있는 스트레스볼 앱 | [Repo](https://github.com/5th-COKATHON/Team2-Client) |
+| **Codify** | FE / React | 2025.05 ~ | 코드 유사도 시각화 기반 표절 검사기 | [Repo](https://github.com/siiion/Codify-Frontend) |
 
 ---
 
