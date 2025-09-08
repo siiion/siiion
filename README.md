@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white"/>
 
 **Tools**  
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
@@ -45,16 +44,17 @@
 |-----------|-------------|------|-------------|--------|
 | **Ripple** | FE / Flutter | 2024.11 ~ | 경제 개념을 쉽게 배우는 학습 앱 | [Repo](https://github.com/IT-Cotato/10th-Economic-Learning-FE) | 
 | **KIDING** | FE / Flutter | 2023.11–2025.03 | 아이와 함께하는 보드게임 보조 앱 | [Repo](https://github.com/KIDING-2023/KIDING_Frontend_Flutter) |
+| **Troublog** | FE / React | 2025.03 ~ | 트러블슈팅을 쉽게 관리하고 보관할 수 있는 서비스 | [Repo](https://github.com/siiion/11th-TroubleLog-FE) |
+| **Codify** | FE / React | 2025.05 ~ | 코드 유사도 시각화 기반 표절 검사기 | [Repo](https://github.com/siiion/Codify-Frontend) |
 | **Eifty** | FE / Flutter | 2025.03–06 | 니모닉 기반 전자지갑 앱 | [Repo](https://github.com/siiion/Eifty) | 
 | **StoryMate** | FE / Flutter | 2025.01–02 | AI 챗봇과 문학 인물로 대화하는 학습 앱 | [Repo](https://github.com/Story-Mate/Story-Mate_Frontend) | 
 | **딱콩!** | FE / Flutter | 2025.01 | 모바일에서 스트레스를 해소할 수 있는 스트레스볼 앱 | [Repo](https://github.com/5th-COKATHON/Team2-Client) |
-| **Codify** | FE / React | 2025.05 ~ | 코드 유사도 시각화 기반 표절 검사기 | [Repo](https://github.com/siiion/Codify-Frontend) |
 
 ---
 
 ### 💼 Activities
 
-- IT 연합 동아리 '코테이토' 10기-11기: 2024.09 ~
+- IT 연합 동아리 '코테이토' 10기-11기: 2024.09 ~ 2025.08
 - GDGoC(Google Developer Groups on Campus) Sookmyung Core Member (Flutter): 2024.09-2025.06
 - 숙명여대 IT공학과 학회 웹운영팀(WIN) 회장&회원: 2022.03-2023.11
 
